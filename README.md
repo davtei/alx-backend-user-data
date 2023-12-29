@@ -1,2 +1,2 @@
-# alx-backend-user-data
+# ALX Backend User Data
 Repository for ALX User Data Backend
